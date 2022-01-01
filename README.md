@@ -6,4 +6,6 @@
 > "Oh I've been a fool- but it's cool, that's what human beings do\
 > keep your eyes to the sky, never glued to your shoes." - Mac Miller
 
-Highly ambitious student-athlete with extreme hard work and dedication.  Seeking to study Computer Science with career goals involving data science or computer information systems.
+Highly ambitious student with extreme hard work and dedication. Seeking to gain a Computer Science related position
+to gain experience for a career involving data science or computer information systems at companies that deal with big
+data.
